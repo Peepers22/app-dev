@@ -7,8 +7,8 @@
 - Castro
 - Dackias
 
-# Contributers
 
+# Contributers
 ## Group 3's favorite series/movies
 
 ### Abad
@@ -16,3 +16,5 @@
 2. Attack on Titan
 
 ### Mejia
+1. When life gives you tangerines
+2. God's not dead
