@@ -13,7 +13,7 @@
 
 ### Abad
 1. Overlord
-2. Attack on Titan
+2. Attack On Titan
 
 ### Mejia
 1. When life gives you tangerines
